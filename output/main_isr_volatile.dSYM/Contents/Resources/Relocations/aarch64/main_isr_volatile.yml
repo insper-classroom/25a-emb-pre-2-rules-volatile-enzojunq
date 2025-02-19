@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/enzojunqueira/2025.1/EMBARCADOS/25a-emb-pre-2-rules-volatile-enzojunq/output/main_isr_volatile'
+relocations:     []
+...
